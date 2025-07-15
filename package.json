@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "Capacitación para desarrollar un servidor",
-	"keywords": [ "freecodecamp", "capacitacion", "backend" ],
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"author": "Belen Callegaris",
 	"license": "ISC",
 	"bugs": {
